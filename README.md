@@ -6,5 +6,5 @@ Throughout the project, we have learnt how to create the game loop, create a jfr
 
 **project authors**
 
-Ajay S Prakash
+Ajay S Prakash,
 Manvitha R Kabbathi
